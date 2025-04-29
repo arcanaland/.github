@@ -1,8 +1,5 @@
-# Arcana Land
-
-> Cartomancy codified
-
 ## Open Specifications and Tools for Digital Tarot
+> Cartomancy codified
 
 Arcana Land provides open standards, tools, and resources for creating and exploring digital tarot decks and associated esoterica. Our goal is to make digital tarot accessible, extensible, and engaging.
 
