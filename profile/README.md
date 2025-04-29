@@ -7,4 +7,4 @@ Explore our repositories:
 - Tools for creating, validating, and exploring tarot content.
 - Reference implementations showcasing best practices.
 
-Soon: [arcana.land](https://arcana.land) will be a repository for Tarot decks (for decks in the public domain) as well as Tarot esoterica.
+Soon: [arcana.land](https://arcana.land) will be a showcase for royalty-free Tarot decks as well as Tarot esoterica.
