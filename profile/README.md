@@ -7,4 +7,4 @@ Explore our repositories:
 - Tools for creating, validating, and exploring tarot content.
 - Reference implementations showcasing best practices.
 
-Soon: [arcana.land](https://arcana.land) will be a forever ad-free showcase of royalty-free Tarot decks and Tarot esoterica. For now, [Pocket Tarot](https://busterbenson.com/tarot) is a great alternative.
+Soon: [arcana.land](http://arcana.land) will be a forever ad-free showcase of royalty-free Tarot decks and Tarot esoterica. For now, [Pocket Tarot](https://busterbenson.com/tarot) is a great alternative.
